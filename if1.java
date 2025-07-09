@@ -13,23 +13,19 @@ public class if1 {
     }
 }
 /*
-Write a program to receive a color code from the user (an Alphabhet). The program 
-should then print the color name, based on the color code given. 
-The following are the color codes and their corresponding color names. 
-R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White. 
-If color code provided by the user is not valid then print "Invalid Code". 
+Write a program to check if a given integer number is Positive, Negative, or Zero. 
 Test Case 1 
-Input  
-Output : Green 
+Input 
+: 1 
+Output : Positive Number 
 Test Case 2 
-Input  
-Output : Blue 
+Input 
+: -125 
+Output : Negative Number 
 Test Case 3 
-Input  
-: G 
-: B 
-: M 
-Output : Invalid Code
+Input 
+: 0 
+Output : Zero 
      */
 
     
