@@ -15,17 +15,25 @@ public class forloop6 {
     }
 }
 /*
-Initialize a character variable with an alphabet in a program. 
+   
+Write a program to print the following pattern 
+ 
 Test Case 1 
-If the character value is in lowercase, the output should be displayed in uppercase 
-in the following format. 
-Input 
-: a 
-Output : A 
+Input  : 5 
+Output 
+ 
+         * 
+       * * 
+     * * * 
+   * * * * 
+ * * * * * 
+ 
 Test Case 2 
-If the character value is in uppercase, the output should be displayed in lowercase 
-in the following format. 
-Input 
-: A 
-Output : a 
+Input  : 4 
+Output   
+  
+         * 
+       * * 
+     * * * 
+   * * * * 
 */
