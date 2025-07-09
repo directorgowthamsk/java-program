@@ -7,3 +7,14 @@ public class forloop2 {
         }
     }
 }
+/*
+Write a program to check if a given integer number is odd or even. 
+Test Case 1 
+Input 
+: 1 
+Output : Odd Number 
+Test Case 2 
+Input 
+: 124 
+Output : Even Number
+    */
