@@ -10,3 +10,17 @@ class if2 {
         }
     }
 }
+/*
+Write a program to receive a number and print the corresponding month name. 
+Test Case 1 
+Input  
+Output  
+Test Case 2 
+Input  
+Output  
+: 8 
+: August 
+: 15 
+: Invalid Month 
+
+    */
