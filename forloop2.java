@@ -8,13 +8,24 @@ public class forloop2 {
     }
 }
 /*
-Write a program to check if a given integer number is odd or even. 
-Test Case 1 
-Input 
-: 1 
-Output : Odd Number 
-Test Case 2 
-Input 
-: 124 
-Output : Even Number
+Write a program to print even numbers between 23 and 57. Each number should be 
+printed in a separated row. 
+ 
+Output 
+24 
+26 
+28 
+30 
+32 
+34 
+36 
+38 
+40 
+42 
+44 
+46 
+50 
+52 
+54 
+56
     */
