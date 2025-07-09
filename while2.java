@@ -17,3 +17,16 @@ public class while2 {
         }
     }
 }
+/*
+Write a program to find if the given number is palindrome or not. 
+Test Case 1 
+Input  
+Output 
+Test Case 2 
+Input  
+Output 
+: 1234 
+: Not a Palindrome 
+: 11211 
+: Palindrome 
+    */
