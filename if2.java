@@ -11,16 +11,14 @@ class if2 {
     }
 }
 /*
-Write a program to receive a number and print the corresponding month name. 
+Write a program to check if a given integer number is odd or even. 
 Test Case 1 
-Input  
-Output  
+Input 
+: 1 
+Output : Odd Number 
 Test Case 2 
-Input  
-Output  
-: 8 
-: August 
-: 15 
-: Invalid Month 
+Input 
+: 124 
+Output : Even Number
 
     */
