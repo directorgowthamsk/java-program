@@ -11,3 +11,6 @@ public class while3 {
         }
     }
 }
+/*
+Write a program to print the first 5 values which are divisible by 2,3 and 5.
+    */
