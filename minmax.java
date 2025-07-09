@@ -23,3 +23,7 @@ public static void main(String[] args) {
 	System.out.println("The maximum number is:"+max);
 }
 }
+/*
+ Write a program to initialize an integer array and find the maximum and minimum 
+value of the array. 
+	 */
