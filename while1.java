@@ -13,3 +13,16 @@ public class while1 {
         System.out.println(rev);
     }
 }
+/*
+Write a program to reverse a   given number and print 
+Test Case 1 
+Input  
+Output  
+Test Case 2 
+Input  
+Output  
+: 1234 
+: 4321 
+: 78512 
+: 21587
+    */
