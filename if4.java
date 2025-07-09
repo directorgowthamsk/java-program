@@ -12,3 +12,12 @@ public class if4 {
         }
     }
 }
+/*
+Initialize a character variable in a program and print the initialized data type 
+Test Case 1 
+Print 'Alphabhet' if the initialized value is an alphabhet,  
+Test Case 2 
+Print 'Digit' if the initialized value is a number 
+Test Case 3 
+Print 'Special Character', if the initialized value is anything else. 
+*/
