@@ -15,10 +15,8 @@ public class forloop3 {
 }
 }
 /*
-Initialize two character variables in a program and display the characters in 
-alphabetical order. 
-Test Case 1 
-If the first character is 's' and second character is 'e' then the output should be e,s 
-Test Case 2 
-If the first character is 'a' and second character is 'e', then the output should be a,e
+Write a program to print the prime numbers between 10 and 99. 
+ 
+Output 
+11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97
      */
