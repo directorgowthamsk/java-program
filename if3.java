@@ -13,3 +13,11 @@ public class if3 {
     }
     }
 }
+/*
+Initialize two character variables in a program and display the characters in 
+alphabetical order. 
+Test Case 1 
+If the first character is 's' and second character is 'e' then the output should be e,s 
+Test Case 2 
+If the first character is 'a' and second character is 'e', then the output should be a,e 
+    */
