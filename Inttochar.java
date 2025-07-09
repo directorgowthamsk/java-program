@@ -14,3 +14,7 @@ public class Inttochar {
 		}
 	}
 }
+/*
+ Initialize an integer array with ascii values and print the corresponding character 
+values in a single row. 
+	 */
